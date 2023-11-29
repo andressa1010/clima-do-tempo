@@ -6,6 +6,8 @@ setInterval(() => {
     getHours()
 }, 1000);
 
+
+
 const getHours = () => {
     const selectClock = document.getElementById("hora");
     const selectData = document.getElementById("data");
